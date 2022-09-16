@@ -1,8 +1,6 @@
-### Halo Semua 👋
+### Hi, There👋
 
-Perkenalkan nama saya **Lukman Nur Hakim**.
-
-Saya seorang **Mahasiswa Jurusan Informatika** di [Telkom University](https://telkomuniversity.ac.id/).
+My name is **Lukman Nur Hakim**. I’m currently studying at **Telkom University** majoring in Informatics
 
 <p align="left">
 <a href="https://github.com/rizkyferdian">
