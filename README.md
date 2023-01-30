@@ -3,7 +3,7 @@
 My name is **Lukman Nur Hakim**. I’m currently studying at **Telkom University** majoring in Informatics
 
 <p align="left">
-<a href="https://github.com/rizkyferdian">
+<a href="https://github.com/LukmanNH">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LukmanNH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LukmanNH&layout=compact&langs_count=8&theme=algolia"/>
 </a>
